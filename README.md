@@ -6,4 +6,4 @@ Pwned Passwords:
 
 
 To run the program:
-    In the terminal, run python/python3 passwordpwncheck.py <filename>
+    In the terminal, run python/python3 passwordpwncheck.py filename
