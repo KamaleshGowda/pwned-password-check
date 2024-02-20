@@ -48,6 +48,6 @@ def main(filename):
 
 if __name__ == '__main__':
   if len(sys.argv) != 2:
-    print("Usage: python script.py <filename>")
+    print("Usage: python passwordpwncheck.py <filename>")
     sys.exit(1)
   main(sys.argv[1])
