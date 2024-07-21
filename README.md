@@ -17,4 +17,4 @@ Pwned Passwords are hundreds of millions of real world passwords previously expo
 
 - Run the program
     ```bash
-    python passwordpwncheck.py passwords.py
+    python passwordpwncheck.py passwords.txt
