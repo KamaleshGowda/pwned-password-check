@@ -6,6 +6,15 @@ Pwned Passwords are hundreds of millions of real world passwords previously expo
 
 
 ### To run the program:
-In the terminal, run
-- `python passwordpwncheck.py <filename>`
-- where `<filename>` is the name of the  text file you want to check (file.txt). The file should contain one password per line.
+
+1. **Install Dependencies**
+
+   Make sure you have Python installed. Then, install the required Python libraries using pip:
+
+    ```bash
+    pip install requests                        
+- Save the passwords in `passwords.txt`, or any file you wish
+
+- Run the program
+    ```bash
+    python passwordpwncheck.py passwords.py
